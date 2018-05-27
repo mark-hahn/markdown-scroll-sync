@@ -9,7 +9,7 @@ Auto-scroll markdown-preview tab to match markdown source.
 
 ### Note about version 2.x.x
 
-This is a total rewrite of the package. This version is more accurate and smoother.  And last, but not least, fewer bugs (grin).
+This is a total rewrite of the package. This version is more accurate and smoother.  And last, but not least, fewer bugs. 😁
 
 ### Installation
 
